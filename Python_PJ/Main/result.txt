@@ -1,0 +1,352 @@
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define  "FortiAP-11C"  "FortiAP-11C"
+#define  "FAP-11C"  "FAP-11C"
+#define  "FAP11C"  "FAP11C"
+#define  "FAP\-11C"  "FAP\-11C"
+#define  "P11890-01-01"  "P11890-01-01"
+#define  "P11973"  "P11973"
+#define  "C4ML70-01AA-0000"  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define  "0.2.2"  "0.2.2"
+#define  "1.00"  "1.00"
+#define  "0001"  "0001"
+#define  "0001"  "0001"
+#define 11292 11292
+
+'Station Parameters:
+#define  "1.00"  "1.00"
+#define  "8"  "8"
+#define  "7"  "7"
+#define "FGT_80C-v500-build0179-FORTINET.out" "FGT_80C-v500-build0179-FORTINET.out"
+#define "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)" "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define "192.168.1.168"	"192.168.1.168"
+#define "192.168.1.6$ID"	"192.168.1.6$ID"
+#define "10.10.80.100"	"10.10.80.100"
+#define 100000	100000
+#define /10m.img	/10m.img
+
+'Image Parameters:
+#define  "04000012"  "04000012"
+#define  "04000012"  "04000012"
+#define  "5.2"  "5.2"
+#define  "216"  "216"
+#define  "FAP_11C-v5-b0216-fortinet.out"  "FAP_11C-v5-b0216-fortinet.out"
+#define "216" "216"
+#define "%PRODUCT% v "5.2"\,build%OS_BUILD%\,140916 (GA)" " "FortiAP-11C" v "5.2"\,build "216"\,140916 (GA)"
+#define "GA" "GA"
+#define  "FAP_11C-v5.0.0-b4026-fortinet.out"  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)" "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define  "FortiAP-11C"  "FortiAP-11C"
+#define  "FAP-11C"  "FAP-11C"
+#define  "FAP11C"  "FAP11C"
+#define  "FAP\-11C"  "FAP\-11C"
+#define  "P11890-01-01"  "P11890-01-01"
+#define  "P11973"  "P11973"
+#define  "C4ML70-01AA-0000"  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define  "0.2.2"  "0.2.2"
+#define  "1.00"  "1.00"
+#define  "0001"  "0001"
+#define  "0001"  "0001"
+#define 11292 11292
+
+'Station Parameters:
+#define  "1.00"  "1.00"
+#define  "8"  "8"
+#define  "7"  "7"
+#define "FGT_80C-v500-build0179-FORTINET.out" "FGT_80C-v500-build0179-FORTINET.out"
+#define "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)" "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define "192.168.1.168"	"192.168.1.168"
+#define "192.168.1.6$ID"	"192.168.1.6$ID"
+#define "10.10.80.100"	"10.10.80.100"
+#define 100000	100000
+#define /10m.img	/10m.img
+
+'Image Parameters:
+#define  "04000012"  "04000012"
+#define  "04000012"  "04000012"
+#define  "5.2"  "5.2"
+#define  "216"  "216"
+#define  "FAP_11C-v5-b0216-fortinet.out"  "FAP_11C-v5-b0216-fortinet.out"
+#define "216" "216"
+#define "%PRODUCT% v "5.2"\,build%OS_BUILD%\,140916 (GA)" " "FortiAP-11C" v "5.2"\,build "216"\,140916 (GA)"
+#define "GA" "GA"
+#define  "FAP_11C-v5.0.0-b4026-fortinet.out"  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)" "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define  "FortiAP-11C"  "FortiAP-11C"
+#define  "FAP-11C"  "FAP-11C"
+#define  "FAP11C"  "FAP11C"
+#define  "FAP\-11C"  "FAP\-11C"
+#define  "P11890-01-01"  "P11890-01-01"
+#define  "P11973"  "P11973"
+#define  "C4ML70-01AA-0000"  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define  "0.2.2"  "0.2.2"
+#define  "1.00"  "1.00"
+#define  "0001"  "0001"
+#define  "0001"  "0001"
+#define 11292 11292
+
+'Station Parameters:
+#define  "1.00"  "1.00"
+#define  "8"  "8"
+#define  "7"  "7"
+#define "FGT_80C-v500-build0179-FORTINET.out" "FGT_80C-v500-build0179-FORTINET.out"
+#define "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)" "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define "192.168.1.168"	"192.168.1.168"
+#define "192.168.1.6$ID"	"192.168.1.6$ID"
+#define "10.10.80.100"	"10.10.80.100"
+#define 100000	100000
+#define /10m.img	/10m.img
+
+'Image Parameters:
+#define  "04000012"  "04000012"
+#define  "04000012"  "04000012"
+#define  "5.2"  "5.2"
+#define  "216"  "216"
+#define  "FAP_11C-v5-b0216-fortinet.out"  "FAP_11C-v5-b0216-fortinet.out"
+#define "216" "216"
+#define "%PRODUCT% v "5.2"\,build%OS_BUILD%\,140916 (GA)" " "FortiAP-11C" v "5.2"\,build "216"\,140916 (GA)"
+#define "GA" "GA"
+#define  "FAP_11C-v5.0.0-b4026-fortinet.out"  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)" "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define  "FortiAP-11C"  "FortiAP-11C"
+#define  "FAP-11C"  "FAP-11C"
+#define  "FAP11C"  "FAP11C"
+#define  "FAP\-11C"  "FAP\-11C"
+#define  "P11890-01-01"  "P11890-01-01"
+#define  "P11973"  "P11973"
+#define  "C4ML70-01AA-0000"  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define  "0.2.2"  "0.2.2"
+#define  "1.00"  "1.00"
+#define  "0001"  "0001"
+#define  "0001"  "0001"
+#define 11292 11292
+
+'Station Parameters:
+#define  "1.00"  "1.00"
+#define  "8"  "8"
+#define  "7"  "7"
+#define "FGT_80C-v500-build0179-FORTINET.out" "FGT_80C-v500-build0179-FORTINET.out"
+#define "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)" "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define "192.168.1.168"	"192.168.1.168"
+#define "192.168.1.6$ID"	"192.168.1.6$ID"
+#define "10.10.80.100"	"10.10.80.100"
+#define 100000	100000
+#define /10m.img	/10m.img
+
+'Image Parameters:
+#define  "04000012"  "04000012"
+#define  "04000012"  "04000012"
+#define  "5.2"  "5.2"
+#define  "216"  "216"
+#define  "FAP_11C-v5-b0216-fortinet.out"  "FAP_11C-v5-b0216-fortinet.out"
+#define "216" "216"
+#define "%PRODUCT% v "5.2"\,build%OS_BUILD%\,140916 (GA)" " "FortiAP-11C" v "5.2"\,build "216"\,140916 (GA)"
+#define "GA" "GA"
+#define  "FAP_11C-v5.0.0-b4026-fortinet.out"  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)" "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define  "FortiAP-11C"  "FortiAP-11C"
+#define  "FAP-11C"  "FAP-11C"
+#define  "FAP11C"  "FAP11C"
+#define  "FAP\-11C"  "FAP\-11C"
+#define  "P11890-01-01"  "P11890-01-01"
+#define  "P11973"  "P11973"
+#define  "C4ML70-01AA-0000"  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define  "0.2.2"  "0.2.2"
+#define  "1.00"  "1.00"
+#define  "0001"  "0001"
+#define  "0001"  "0001"
+#define 11292 11292
+
+'Station Parameters:
+#define  "1.00"  "1.00"
+#define  "8"  "8"
+#define  "7"  "7"
+#define "FGT_80C-v500-build0179-FORTINET.out" "FGT_80C-v500-build0179-FORTINET.out"
+#define "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)" "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define "192.168.1.168"	"192.168.1.168"
+#define "192.168.1.6$ID"	"192.168.1.6$ID"
+#define "10.10.80.100"	"10.10.80.100"
+#define 100000	100000
+#define /10m.img	/10m.img
+
+'Image Parameters:
+#define  "04000012"  "04000012"
+#define  "04000012"  "04000012"
+#define  "5.2"  "5.2"
+#define  "216"  "216"
+#define  "FAP_11C-v5-b0216-fortinet.out"  "FAP_11C-v5-b0216-fortinet.out"
+#define "216" "216"
+#define "%PRODUCT% v "5.2"\,build%OS_BUILD%\,140916 (GA)" " "FortiAP-11C" v "5.2"\,build "216"\,140916 (GA)"
+#define "GA" "GA"
+#define  "FAP_11C-v5.0.0-b4026-fortinet.out"  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)" "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define  "FortiAP-11C"  "FortiAP-11C"
+#define  "FAP-11C"  "FAP-11C"
+#define  "FAP11C"  "FAP11C"
+#define  "FAP\-11C"  "FAP\-11C"
+#define  "P11890-01-01"  "P11890-01-01"
+#define  "P11973"  "P11973"
+#define  "C4ML70-01AA-0000"  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define  "0.2.2"  "0.2.2"
+#define  "1.00"  "1.00"
+#define  "0001"  "0001"
+#define  "0001"  "0001"
+#define 11292 11292
+
+'Station Parameters:
+#define  "1.00"  "1.00"
+#define  "8"  "8"
+#define  "7"  "7"
+#define "FGT_80C-v500-build0179-FORTINET.out" "FGT_80C-v500-build0179-FORTINET.out"
+#define "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)" "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define "192.168.1.168"	"192.168.1.168"
+#define "192.168.1.6$ID"	"192.168.1.6$ID"
+#define "10.10.80.100"	"10.10.80.100"
+#define 100000	100000
+#define /10m.img	/10m.img
+
+'Image Parameters:
+#define  "04000012"  "04000012"
+#define  "04000012"  "04000012"
+#define  "5.2"  "5.2"
+#define  "216"  "216"
+#define  "FAP_11C-v5-b0216-fortinet.out"  "FAP_11C-v5-b0216-fortinet.out"
+#define "216" "216"
+#define "%PRODUCT% v "5.2"\,build%OS_BUILD%\,140916 (GA)" " "FortiAP-11C" v "5.2"\,build "216"\,140916 (GA)"
+#define "GA" "GA"
+#define  "FAP_11C-v5.0.0-b4026-fortinet.out"  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)" "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+[Console_setup]
+BaudRate=9600
+DataBits=9
+StopBits=1
+Parity=0
+FlowControl=0
+
+
+[Fortinet Autotest]
+Version=1.0
+Developer=Johnny Wu
+PID=FS100
+
+[Global settings]
+TotalDevices=6
+Baudrate=9600
+Databits=8
+Stopbits=1
+Parity=none
+Flowcontrol=none
+FASFile=C:\autotest\fas\PS321C\CM-PS321C-CTS-P17245.fas
+Logfolder=C:\autotest\log\PS321C
+
+[Device1]
+UseGlobalSetting=1
+Title=Device1(COM1)
+ComPort=COM1
+PCS1Index=1
+PCS2Index=2
+
+[Device2]
+UseGlobalSetting=1
+Title=Device2(COM2)
+ComPort=COM2
+PCS1Index=3
+PCS2Index=4
+
+[Device3]
+UseGlobalSetting=1
+Title=Device3(COM3)
+ComPort=COM3
+PCS1Index=5
+PCS2Index=6
+
+[Device4]
+UseGlobalSetting=1
+Title=Device4(COM4)
+ComPort=COM4
+PCS1Index=7
+PCS2Index=8
+
+[Device5]
+UseGlobalSetting=0
+FASFile=C:\Autotest\fas\PS321C\FGT80C-WIRELESS-CONTROLLER_genernic.fas
+Title=Device5(Controller)
+ComPort=COM5
+
+[Device6]
+UseGlobalSetting=0
+FASFile=C:\autotest\fas\PS321C\ON.fas
+
+
+
+##
+#define "CM-%SN-MASK%-CTS-$0.log" "CM- "FAP11C"-CTS-$0.log"		
+
+#define "Verify SN:           \\\\\\\t" "Verify SN:	          \\\\\\\\\\\\\\t"
+#define "OS UPDATE \\\\\\\t" "OS UPDATE \\\\\\\\\\\\\\t"		
+#define "WIFI POE:  \\\\\\\t" "WIFI POE:  \\\\\\\\\\\\\\t"
+#define ((?:(?:[A-F0-9]\:*){2}){6}) ((?:(?:[A-F0-9]\:*){2}){6})
+
+
+
+"Verify SN:           \\\\\\\t"
+"OS UPDATE \\\\\\\t"
+"WIFI POE:  \\\\\\\t"

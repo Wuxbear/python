@@ -1,0 +1,4 @@
+[PowerEquipment]
+name=netBooter
+ports=8
+ip=192.168.1.99

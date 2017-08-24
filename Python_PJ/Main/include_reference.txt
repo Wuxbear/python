@@ -1,0 +1,352 @@
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define %PRODUCT%  "FortiAP-11C"
+#define %MODEL%  "FAP-11C"
+#define %SN-MASK%  "FAP11C"
+#define %SKU-MASK%  "FAP\-11C"
+#define %SYS-PN%  "P11890-01-01"
+#define %PCBA-PN%  "P11973"
+#define %HW-ID%  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define %PACKAGE_VERSION%  "0.2.2"
+#define %TRUNK_VERSION%  "1.00"
+#define %TRUNK_BUILD%  "0001"
+#define %TRUNK_BRANCH_POINT%  "0001"
+#define %FAJ_VERSION% 11292
+
+'Station Parameters:
+#define %CTS_VERSION%  "1.00"
+#define %CTS_TOTALDEVICES%  "8"
+#define %AC_DEV_INDEX%  "7"
+#define %AC_OS_FILENAME% "FGT_80C-v500-build0179-FORTINET.out"
+#define %AC_OS_STATUS% "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define %TFTP_SERVER_IP%	"192.168.1.168"
+#define %TFTP_CLIENT_IP%	"192.168.1.6$ID"
+#define %FTP_SERVER_VIP%	"10.10.80.100"
+#define %FTP_WIFI_DLD_RATE_MIN%	100000
+#define %FTP_WIFI_DLD_FILE%	/10m.img
+
+'Image Parameters:
+#define %BIOS_VERSION%  "04000012"
+#define %BIOS_BUILD%  "04000012"
+#define %OS_VERSION%  "5.2"
+#define %OS_BUILD%  "216"
+#define %OS_FILENAME%  "FAP_11C-v5-b0216-fortinet.out"
+#define %OS_BRANCHPOINT% "216"
+#define %OS_STATUS_VERSION% "%PRODUCT% v%OS_VERSION%\,build%OS_BUILD%\,140916 (GA)"
+#define %OS_RELEASE_VERSION% "GA"
+#define %HQIP_FILENAME%  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define %HQIP_STATUS_VERSION% "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define %PRODUCT%  "FortiAP-11C"
+#define %MODEL%  "FAP-11C"
+#define %SN-MASK%  "FAP11C"
+#define %SKU-MASK%  "FAP\-11C"
+#define %SYS-PN%  "P11890-01-01"
+#define %PCBA-PN%  "P11973"
+#define %HW-ID%  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define %PACKAGE_VERSION%  "0.2.2"
+#define %TRUNK_VERSION%  "1.00"
+#define %TRUNK_BUILD%  "0001"
+#define %TRUNK_BRANCH_POINT%  "0001"
+#define %FAJ_VERSION% 11292
+
+'Station Parameters:
+#define %CTS_VERSION%  "1.00"
+#define %CTS_TOTALDEVICES%  "8"
+#define %AC_DEV_INDEX%  "7"
+#define %AC_OS_FILENAME% "FGT_80C-v500-build0179-FORTINET.out"
+#define %AC_OS_STATUS% "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define %TFTP_SERVER_IP%	"192.168.1.168"
+#define %TFTP_CLIENT_IP%	"192.168.1.6$ID"
+#define %FTP_SERVER_VIP%	"10.10.80.100"
+#define %FTP_WIFI_DLD_RATE_MIN%	100000
+#define %FTP_WIFI_DLD_FILE%	/10m.img
+
+'Image Parameters:
+#define %BIOS_VERSION%  "04000012"
+#define %BIOS_BUILD%  "04000012"
+#define %OS_VERSION%  "5.2"
+#define %OS_BUILD%  "216"
+#define %OS_FILENAME%  "FAP_11C-v5-b0216-fortinet.out"
+#define %OS_BRANCHPOINT% "216"
+#define %OS_STATUS_VERSION% "%PRODUCT% v%OS_VERSION%\,build%OS_BUILD%\,140916 (GA)"
+#define %OS_RELEASE_VERSION% "GA"
+#define %HQIP_FILENAME%  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define %HQIP_STATUS_VERSION% "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define %PRODUCT%  "FortiAP-11C"
+#define %MODEL%  "FAP-11C"
+#define %SN-MASK%  "FAP11C"
+#define %SKU-MASK%  "FAP\-11C"
+#define %SYS-PN%  "P11890-01-01"
+#define %PCBA-PN%  "P11973"
+#define %HW-ID%  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define %PACKAGE_VERSION%  "0.2.2"
+#define %TRUNK_VERSION%  "1.00"
+#define %TRUNK_BUILD%  "0001"
+#define %TRUNK_BRANCH_POINT%  "0001"
+#define %FAJ_VERSION% 11292
+
+'Station Parameters:
+#define %CTS_VERSION%  "1.00"
+#define %CTS_TOTALDEVICES%  "8"
+#define %AC_DEV_INDEX%  "7"
+#define %AC_OS_FILENAME% "FGT_80C-v500-build0179-FORTINET.out"
+#define %AC_OS_STATUS% "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define %TFTP_SERVER_IP%	"192.168.1.168"
+#define %TFTP_CLIENT_IP%	"192.168.1.6$ID"
+#define %FTP_SERVER_VIP%	"10.10.80.100"
+#define %FTP_WIFI_DLD_RATE_MIN%	100000
+#define %FTP_WIFI_DLD_FILE%	/10m.img
+
+'Image Parameters:
+#define %BIOS_VERSION%  "04000012"
+#define %BIOS_BUILD%  "04000012"
+#define %OS_VERSION%  "5.2"
+#define %OS_BUILD%  "216"
+#define %OS_FILENAME%  "FAP_11C-v5-b0216-fortinet.out"
+#define %OS_BRANCHPOINT% "216"
+#define %OS_STATUS_VERSION% "%PRODUCT% v%OS_VERSION%\,build%OS_BUILD%\,140916 (GA)"
+#define %OS_RELEASE_VERSION% "GA"
+#define %HQIP_FILENAME%  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define %HQIP_STATUS_VERSION% "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define %PRODUCT%  "FortiAP-11C"
+#define %MODEL%  "FAP-11C"
+#define %SN-MASK%  "FAP11C"
+#define %SKU-MASK%  "FAP\-11C"
+#define %SYS-PN%  "P11890-01-01"
+#define %PCBA-PN%  "P11973"
+#define %HW-ID%  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define %PACKAGE_VERSION%  "0.2.2"
+#define %TRUNK_VERSION%  "1.00"
+#define %TRUNK_BUILD%  "0001"
+#define %TRUNK_BRANCH_POINT%  "0001"
+#define %FAJ_VERSION% 11292
+
+'Station Parameters:
+#define %CTS_VERSION%  "1.00"
+#define %CTS_TOTALDEVICES%  "8"
+#define %AC_DEV_INDEX%  "7"
+#define %AC_OS_FILENAME% "FGT_80C-v500-build0179-FORTINET.out"
+#define %AC_OS_STATUS% "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define %TFTP_SERVER_IP%	"192.168.1.168"
+#define %TFTP_CLIENT_IP%	"192.168.1.6$ID"
+#define %FTP_SERVER_VIP%	"10.10.80.100"
+#define %FTP_WIFI_DLD_RATE_MIN%	100000
+#define %FTP_WIFI_DLD_FILE%	/10m.img
+
+'Image Parameters:
+#define %BIOS_VERSION%  "04000012"
+#define %BIOS_BUILD%  "04000012"
+#define %OS_VERSION%  "5.2"
+#define %OS_BUILD%  "216"
+#define %OS_FILENAME%  "FAP_11C-v5-b0216-fortinet.out"
+#define %OS_BRANCHPOINT% "216"
+#define %OS_STATUS_VERSION% "%PRODUCT% v%OS_VERSION%\,build%OS_BUILD%\,140916 (GA)"
+#define %OS_RELEASE_VERSION% "GA"
+#define %HQIP_FILENAME%  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define %HQIP_STATUS_VERSION% "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define %PRODUCT%  "FortiAP-11C"
+#define %MODEL%  "FAP-11C"
+#define %SN-MASK%  "FAP11C"
+#define %SKU-MASK%  "FAP\-11C"
+#define %SYS-PN%  "P11890-01-01"
+#define %PCBA-PN%  "P11973"
+#define %HW-ID%  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define %PACKAGE_VERSION%  "0.2.2"
+#define %TRUNK_VERSION%  "1.00"
+#define %TRUNK_BUILD%  "0001"
+#define %TRUNK_BRANCH_POINT%  "0001"
+#define %FAJ_VERSION% 11292
+
+'Station Parameters:
+#define %CTS_VERSION%  "1.00"
+#define %CTS_TOTALDEVICES%  "8"
+#define %AC_DEV_INDEX%  "7"
+#define %AC_OS_FILENAME% "FGT_80C-v500-build0179-FORTINET.out"
+#define %AC_OS_STATUS% "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define %TFTP_SERVER_IP%	"192.168.1.168"
+#define %TFTP_CLIENT_IP%	"192.168.1.6$ID"
+#define %FTP_SERVER_VIP%	"10.10.80.100"
+#define %FTP_WIFI_DLD_RATE_MIN%	100000
+#define %FTP_WIFI_DLD_FILE%	/10m.img
+
+'Image Parameters:
+#define %BIOS_VERSION%  "04000012"
+#define %BIOS_BUILD%  "04000012"
+#define %OS_VERSION%  "5.2"
+#define %OS_BUILD%  "216"
+#define %OS_FILENAME%  "FAP_11C-v5-b0216-fortinet.out"
+#define %OS_BRANCHPOINT% "216"
+#define %OS_STATUS_VERSION% "%PRODUCT% v%OS_VERSION%\,build%OS_BUILD%\,140916 (GA)"
+#define %OS_RELEASE_VERSION% "GA"
+#define %HQIP_FILENAME%  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define %HQIP_STATUS_VERSION% "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+'****************************************
+' WARNING WARNING
+' Automatic generated for FAP11C
+' Do not modify directly
+'****************************************
+
+'Product Parameters:
+#define %PRODUCT%  "FortiAP-11C"
+#define %MODEL%  "FAP-11C"
+#define %SN-MASK%  "FAP11C"
+#define %SKU-MASK%  "FAP\-11C"
+#define %SYS-PN%  "P11890-01-01"
+#define %PCBA-PN%  "P11973"
+#define %HW-ID%  "C4ML70-01AA-0000"
+
+'Package Parameters:
+#define %PACKAGE_VERSION%  "0.2.2"
+#define %TRUNK_VERSION%  "1.00"
+#define %TRUNK_BUILD%  "0001"
+#define %TRUNK_BRANCH_POINT%  "0001"
+#define %FAJ_VERSION% 11292
+
+'Station Parameters:
+#define %CTS_VERSION%  "1.00"
+#define %CTS_TOTALDEVICES%  "8"
+#define %AC_DEV_INDEX%  "7"
+#define %AC_OS_FILENAME% "FGT_80C-v500-build0179-FORTINET.out"
+#define %AC_OS_STATUS% "Version: FortiGate-80C v5.0\,build0179\,130318 (GA Patch 2)"
+#define %TFTP_SERVER_IP%	"192.168.1.168"
+#define %TFTP_CLIENT_IP%	"192.168.1.6$ID"
+#define %FTP_SERVER_VIP%	"10.10.80.100"
+#define %FTP_WIFI_DLD_RATE_MIN%	100000
+#define %FTP_WIFI_DLD_FILE%	/10m.img
+
+'Image Parameters:
+#define %BIOS_VERSION%  "04000012"
+#define %BIOS_BUILD%  "04000012"
+#define %OS_VERSION%  "5.2"
+#define %OS_BUILD%  "216"
+#define %OS_FILENAME%  "FAP_11C-v5-b0216-fortinet.out"
+#define %OS_BRANCHPOINT% "216"
+#define %OS_STATUS_VERSION% "%PRODUCT% v%OS_VERSION%\,build%OS_BUILD%\,140916 (GA)"
+#define %OS_RELEASE_VERSION% "GA"
+#define %HQIP_FILENAME%  "FAP_11C-v5.0.0-b4026-fortinet.out"
+#define %HQIP_STATUS_VERSION% "Version: FortiAP-11C v5.0\,build4026\,121121 (GA)"
+
+[Console_setup]
+BaudRate=9600
+DataBits=9
+StopBits=1
+Parity=0
+FlowControl=0
+
+
+[Fortinet Autotest]
+Version=1.0
+Developer=Johnny Wu
+PID=FS100
+
+[Global settings]
+TotalDevices=6
+Baudrate=9600
+Databits=8
+Stopbits=1
+Parity=none
+Flowcontrol=none
+FASFile=C:\autotest\fas\PS321C\CM-PS321C-CTS-P17245.fas
+Logfolder=C:\autotest\log\PS321C
+
+[Device1]
+UseGlobalSetting=1
+Title=Device1(COM1)
+ComPort=COM1
+PCS1Index=1
+PCS2Index=2
+
+[Device2]
+UseGlobalSetting=1
+Title=Device2(COM2)
+ComPort=COM2
+PCS1Index=3
+PCS2Index=4
+
+[Device3]
+UseGlobalSetting=1
+Title=Device3(COM3)
+ComPort=COM3
+PCS1Index=5
+PCS2Index=6
+
+[Device4]
+UseGlobalSetting=1
+Title=Device4(COM4)
+ComPort=COM4
+PCS1Index=7
+PCS2Index=8
+
+[Device5]
+UseGlobalSetting=0
+FASFile=C:\Autotest\fas\PS321C\FGT80C-WIRELESS-CONTROLLER_genernic.fas
+Title=Device5(Controller)
+ComPort=COM5
+
+[Device6]
+UseGlobalSetting=0
+FASFile=C:\autotest\fas\PS321C\ON.fas
+
+
+
+##
+#define %CTS_LOGFILE_NAME% "CM-%SN-MASK%-CTS-$0.log"		
+
+#define %FINAL_REPORT1% "Verify SN:	          \\\\\\\\\\\\t"
+#define %FINAL_REPORT2% "OS UPDATE \\\\\\\\\\\\t"		
+#define %FINAL_REPORT3% "WIFI POE:  \\\\\\\\\\\\t"
+#define %MAC_ADDR_MASK% ((?:(?:[A-F0-9]\:*){2}){6})
+
+
+
+%FINAL_REPORT1%
+%FINAL_REPORT2%
+%FINAL_REPORT3%

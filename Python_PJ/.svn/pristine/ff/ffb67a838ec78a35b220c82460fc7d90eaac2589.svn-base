@@ -1,0 +1,11 @@
+#define <report1>  "SN verify"
+#define <report2>  "OS update"
+
+<telnet_connect> "192.168.1.100"
+<telnet_read> 10 "Synaccess Inc. Telnet Session V6."
+<telnet_write> "pset 1 1"
+<sleep> 5
+<telnet_read> 10 ">"
+<telnet_write> "pset 1 0"
+<telnet_read> 10 ">"
+<telnet_disconnect>
